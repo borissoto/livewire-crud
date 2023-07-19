@@ -199,13 +199,13 @@ class Crud extends GeneratorCommand
             if (file_exists(base_path() . '/stubs/bootstrap.crud.php.stub')){
                 return base_path() . '/stubs/bootstrap.crud.php.stub';
             }
-            return base_path().'/vendor/imritesh/livecrud/src/stubs/bootstrap.crud.php.stub';
+            return base_path().'/vendor/borissoto/livecrud/src/stubs/bootstrap.crud.php.stub';
         }
 
         if (file_exists(base_path() . '/stubs/crud.php.stub')){
             return base_path() . '/stubs/crud.php.stub';
         }
-        return base_path().'/vendor/imritesh/livecrud/src/stubs/crud.php.stub';
+        return base_path().'/vendor/borissoto/livecrud/src/stubs/crud.php.stub';
     }
 
     public function checkIfModelExists()

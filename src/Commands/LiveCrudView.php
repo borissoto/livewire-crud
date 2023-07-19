@@ -200,13 +200,13 @@ class LiveCrudView extends GeneratorCommand
             if (file_exists(base_path() . '/stubs/bootstrap.view.php.stub')) {
                 return base_path() . '/stubs/bootstrap.view.php.stub';
             }
-            return base_path() . '/vendor/imritesh/livecrud/src/stubs/bootstrap.view.php.stub';
+            return base_path() . '/vendor/borissoto/livecrud/src/stubs/bootstrap.view.php.stub';
         }
 
         if (file_exists(base_path() . '/stubs/view.php.stub')) {
             return base_path() . '/stubs/view.php.stub';
         }
-        return base_path() . '/vendor/imritesh/livecrud/src/stubs/view.php.stub';
+        return base_path() . '/vendor/borissoto/livecrud/src/stubs/view.php.stub';
     }
 
 }

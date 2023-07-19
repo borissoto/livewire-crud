@@ -1,5 +1,5 @@
 {
-    "name": "imritesh/livecrud",
+    "name": "borissoto/livecrud",
     "description": "Generate Basic Crud Operations With Livewire and Tailwind Css For Laravel",
     "license": "MIT",
     "version": "v2.3.1",
@@ -10,7 +10,7 @@
             "homepage": "https://imritesh.com"
         }
     ],
-    "homepage": "https://github.com/riteshsingh1/livewire-crud",
+    "homepage": "https://github.com/borissoto/livewire-crud",
     "keywords": ["Laravel", "LiveCrud"],
     "require": {
         "illuminate/support": "~7|~8|~9|~10"

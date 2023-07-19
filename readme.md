@@ -1,9 +1,9 @@
 # LiveCrud
 
 
-![Packagist License](https://img.shields.io/packagist/l/imritesh/livecrud)
-![Packagist Downloads](https://img.shields.io/packagist/dt/imritesh/livecrud)
-![Packagist Version](https://img.shields.io/packagist/v/imritesh/livecrud)
+![Packagist License](https://img.shields.io/packagist/l/borissoto/livecrud)
+![Packagist Downloads](https://img.shields.io/packagist/dt/borissoto/livecrud)
+![Packagist Version](https://img.shields.io/packagist/v/borissoto/livecrud)
 
 
 
@@ -23,7 +23,7 @@ Live Crud Generator. This package generates Basic Crud with Livewire.
 Via Composer
 
 ``` bash
-composer require imritesh/livecrud
+composer require borissoto/livecrud
 ```
 
 ## Prerequisites
